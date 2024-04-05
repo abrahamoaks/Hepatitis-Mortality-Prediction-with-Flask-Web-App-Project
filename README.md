@@ -84,7 +84,8 @@ Patients with hepatitis have been continously increasing. An estimated 354 milli
     - Support Vector Machine
     - Linear Discriminant Analysis
 + Serialize (Save Model)
-  ![Flask App](static/model_img.png)
+
+![Flask App](static/model_img.png)
 
 ## Model Interpretation
  + I implemented explainable AI techniques to understand the decisions made by the machine learning model for individual patients. With this technique, healthcare professionals can gain insights into which features are most influential in predicting the patient's outcome (i.e., survival or death). 
