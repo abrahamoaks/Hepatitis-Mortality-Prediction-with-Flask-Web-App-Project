@@ -79,11 +79,11 @@ Patients with hepatitis have been continously increasing. An estimated 354 milli
 + Data Train/Test/Split
 + Algorithm Comparisms
     - Logistic Regression (LR)
-    - Linear Discriminant Analysis
-    - Decision Tree Classifier
-    - Support Vector Machine
-    - K-Nearest Neighbor
-    - Naive Bayes
+    - Linear Discriminant Analysis (LDA)
+    - Decision Tree Classifier (CART)
+    - Support Vector Machine (SVM)
+    - K-Nearest Neighbor (KNN)
+    - Naive Bayes (NB)
 + Serialize (Save Model)
 
 ![Flask App](static/model_img.png)
