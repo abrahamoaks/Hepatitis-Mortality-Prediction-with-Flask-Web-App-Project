@@ -115,7 +115,7 @@ Since this is a binary classification problem, I used the following metrics:
 ![Flask App](static/hep_assess2.jpg)
 
 ## Model Monitoring and Maintenance 
-- I leveraged a robust cloud ML platform and implemented a quality control check, experiment tracking, model maintenance and model monitoring techniques to observe data drift and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
+- I leveraged a robust cloud ML platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
   
 ## Technologies Used
 - Python 
