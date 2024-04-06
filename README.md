@@ -99,8 +99,7 @@ Since this is a binary classification problem, I used the following metrics:
 * **Classification report** - For providing insights into the model's performance.
 * **Accuracy score** - To evaluate the overall performance of the classification model.
 
-## Key Achievement(s)
- + Model achieved an overall performance accuracy of 95.74% using Linear Discriminant Analysis (LDA) Machine Learning Algorithm.
+
 
 ## Business Solution 
   ### Deploying the Model with a Flask Web App
@@ -116,23 +115,31 @@ Since this is a binary classification problem, I used the following metrics:
 
 ## Model Monitoring and Maintenance 
 - I leveraged a robust cloud ML platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
+
+### Key Achievement(s)
+ + Model achieved an overall performance accuracy of 95.74% using Linear Discriminant Analysis (LDA) Machine Learning Algorithm.
+ + Model operationalized and deployed on cloud premises for global access.
+ + Model monitoring and maintenance to prevent data drift and to ensure model reliability.
   
 ## Technologies Used
 - Python 
-- VS Code
-- AWS Sagemaker 
-- Scikit-Learn
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Lime
-- Joblib
-- Comet ML
-- Flask
-- HTML
-- CSS
-- JavaScript 
+- Coding Tools
+   - VS Code
+   - AWS Sagemaker
+- ML Libraries 
+  - Scikit-Learn
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+  - Lime
+  - Joblib
+  - Comet ML
+- Web App Frameworks 
+  - Flask
+  - HTML
+  - CSS
+  - JavaScript 
 
 ## Data Source
 The dataset used in this project is sourced from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/).
