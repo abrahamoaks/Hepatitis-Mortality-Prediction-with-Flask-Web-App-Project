@@ -118,8 +118,8 @@ Since this is a binary classification problem, I used the following metrics:
 
 ### Key Achievement(s)
  + Model achieved an overall performance accuracy of 95.74% using Linear Discriminant Analysis (LDA) Machine Learning Algorithm.
- + Model operationalized and deployed on cloud premises for global access.
- + Model monitoring and maintenance to prevent data drift and to ensure model reliability.
+ + Model operationalized and deployed on cloud premises for easy accessibility.
+ + Model successfully logged for monitoring and routine maintenance.
   
 ## Technologies Used
 - Python 
