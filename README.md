@@ -77,7 +77,7 @@ Patients with hepatitis have been continously increasing. An estimated 354 milli
 ## Model Building 
 + Features Selection
 + Data Train/Test/Split
-+ Algorithm Comparisms
++ Algorithm Comparism
     - Logistic Regression (LR)
     - Linear Discriminant Analysis (LDA)
     - Decision Tree Classifier (CART)
