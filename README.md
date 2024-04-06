@@ -98,6 +98,7 @@ Since this is a binary classification problem, I used the following metrics:
 * **Confusion matrix** - For getting a better clarity of the number of correct/incorrect predictions made by the model.
 * **Classification report** - For providing insights into the model's performance.
 * **Accuracy score** - To evaluate the overall performance of the classification model.
+  ![Flask App](static/evaluation.jpg)
 
 
 
@@ -115,6 +116,8 @@ Since this is a binary classification problem, I used the following metrics:
 
 ## Model Monitoring and Maintenance 
 - I leveraged a robust cloud ML platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
+
+  ![Flask App](static/monitor.jpg)
 
 ### Key Achievement(s)
  + Model achieved an overall performance accuracy of 95.74% using Linear Discriminant Analysis (LDA) Machine Learning Algorithm.
