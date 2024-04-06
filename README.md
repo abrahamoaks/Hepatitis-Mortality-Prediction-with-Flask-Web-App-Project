@@ -121,7 +121,6 @@ Since this is a binary classification problem, I used the following metrics:
 - Python 
 - VS Code
 - AWS Sagemaker 
-- Flask 
 - Scikit-Learn
 - Pandas
 - Numpy
@@ -130,6 +129,10 @@ Since this is a binary classification problem, I used the following metrics:
 - Lime
 - Joblib
 - Comet ML
+- Flask
+- HTML
+- CSS
+- JavaScript 
 
 ## Data Source
 The dataset used in this project is sourced from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/).
