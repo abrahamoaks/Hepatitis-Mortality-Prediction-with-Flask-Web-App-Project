@@ -99,6 +99,7 @@ Since this is a binary classification problem, I used the following metrics:
 * **Classification report** - For providing insights into the model's performance.
 * **Accuracy score** - To evaluate the overall performance of the classification model.
 
+
 ![Flask App](static/evaluation.jpg)
 
 
