@@ -98,7 +98,8 @@ Since this is a binary classification problem, I used the following metrics:
 * **Confusion matrix** - For getting a better clarity of the number of correct/incorrect predictions made by the model.
 * **Classification report** - For providing insights into the model's performance.
 * **Accuracy score** - To evaluate the overall performance of the classification model.
-  ![Flask App](static/evaluation.jpg)
+
+![Flask App](static/evaluation.jpg)
 
 
 
