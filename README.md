@@ -11,7 +11,7 @@ Hepatitis can be caused by excessive alcohol consumption, toxins, certain medica
 
 ## Business Problem 
 ### Problem Context
-Patients with hepatitis have been continously increasing. An estimated 354 million people worldwide live with hepatitis B or C, and for most, testing and treatment remain beyond reach. Early diagnosis and treatment of chronic hepatitis may prevent complications such as cirrhosis (scarring of the liver), liver failure and liver cancer.
+Patients with hepatitis have been continously increasing. An estimated 354 million people worldwide live with hepatitis B or C, and for most, testing and treatment remain beyond reach. Early detection is key to prioritizing and planning treatment plans for patients with low chances of survival from the disease.
 
 *Source:https://who.int/health-topics/hepatitis#tab=tab_1*
 
