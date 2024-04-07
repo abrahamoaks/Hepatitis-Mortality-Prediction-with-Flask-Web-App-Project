@@ -114,7 +114,7 @@ Since this is a binary classification problem, I used the following metrics:
 
 
 
-![Flask App](static/report2.jpg)
+![Flask App](static/report3.jpg)
 
 ## Model Monitoring and Maintenance 
 - I leveraged a robust cloud ML platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
