@@ -123,7 +123,7 @@ Since this is a binary classification problem, I used the following metrics:
 ![Flask App](static/monitor.jpg)
 
 ### Key Achievement(s)
- + Model achieved an overall performance accuracy of 95.74% using Linear Discriminant Analysis (LDA) Machine Learning Algorithm.
+ + Model achieved an overall performance accuracy of >95% using Linear Discriminant Analysis (LDA) Machine Learning Algorithm.
  + Model operationalized and deployed on cloud premises for easy accessibility.
  + Model successfully logged for continuous monitoring and routine maintenance.
   
@@ -143,6 +143,7 @@ Since this is a binary classification problem, I used the following metrics:
   - Comet ML
 - Web App Frameworks 
   - Flask
+  - Bootstrap 
   - HTML
   - CSS
   - JavaScript 
