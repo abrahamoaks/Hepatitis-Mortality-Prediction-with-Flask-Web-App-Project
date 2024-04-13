@@ -159,6 +159,7 @@ This project aims to provide insights into hepatitis mortality prediction using 
 ## Contact
 For any enquiries, feedback or collaborations, feel free to [Connect with me on LinkedIn](https://www.linkedin.com/in/abraham-obianke-269112197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or send me an Email via  [abrahamoaks@gmail.com](mailto:your_email@example.com).
 
-## Reference 
-1. *https://medlineplus.gov/hepatitis.html*
-2. *https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/*
+## References
+1. *https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/
+2. *https://medlineplus.gov/hepatitis.html*
+3.*Source:https://who.int/health-topics/hepatitis#tab=tab_1*
