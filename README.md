@@ -9,7 +9,7 @@ Hepatitis can be caused by excessive alcohol consumption, toxins, certain medica
 
 *Source:https://medlineplus.gov/hepatitis.html*
 
-## Business Problem 
+## Patients Problem 
 ### Problem Context
 Patients with hepatitis have been continously increasing. An estimated 354 million people worldwide live with hepatitis B or C, and for most, testing and treatment remain beyond reach. Early detection is key to prioritizing and tailoring treatment plans for patients with low chances of survival from the disease.
 
@@ -45,7 +45,7 @@ Patients with hepatitis have been continously increasing. An estimated 354 milli
 *Data Source:* https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/
 
 
-## Mapping Business Problem to ML Problem
+## Mapping Patients Problem to ML Problem
 
 ### Type of Machine Learning Problem
 + It is a binary classification problem, where given the above set of features, we need to predict if a given patient having hepatitis will live or die.
@@ -104,7 +104,7 @@ Since this is a binary classification problem, I used the following metrics:
 
 
 
-## Business Solution 
+## Data-Driven Solution 
   ### Deploying the Model with a Flask Web App
  + To make the model accessible to end-users, I have developed a user-friendly Flask web application called "Predio." The Flask web app, Predio, provides a friendly user interface where users can input relevant parameters through a web form. Upon submission, the app processes the input data using the accurately trained cloud based machine learning model and provides the predicted outcome (live or die). [Click HERE to Gain FREE Access to the Machine Learning Web App](http://abrahamoaks.pythonanywhere.com/) hosted in the cloud for global usage.
 
@@ -153,7 +153,7 @@ The dataset used in this project is sourced from the UCI Machine Learning Reposi
 
 
 ## Conclusion
-This project aims to provide insights into hepatitis mortality prediction using machine learning techniques. By analyzing relevant parameters, interpreting the outcome of the black-box model to foster trust and deploying the machine learning model with a user-friendly Flask web application, I aim to make the predictive model accessible to healthcare professionals and individuals interested in hepatitis prognosis aiding in early detection and preventive care.
+This project aims to provide insights into hepatitis mortality prediction using machine learning techniques. By analyzing relevant parameters, interpreting the outcome of the black-box model to foster trust and deploying the machine learning model with a user-friendly Flask web application, I aim to make the predictive model accessible to healthcare professionals and individuals interested in hepatitis prognosis aiding in early detection and preventive care for enhancing Patient outcomes.
 
 
 ## Contact
