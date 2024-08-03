@@ -74,6 +74,10 @@ Patients with hepatitis have been continously increasing. An estimated 354 milli
 
 ![Flask App](static/histogram.png)
 
+### Analysis Observations 
+1. The highest prevalence of Hepatitis is in the age group of 30 - 40 years
+2. The lowest prevalence of Hepatitis is in the age group of less than 10 years
+
 ## Model Building 
 + Features Selection
 + Data Train/Test/Split
