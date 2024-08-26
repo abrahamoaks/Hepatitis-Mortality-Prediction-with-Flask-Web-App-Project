@@ -1,5 +1,7 @@
 # Hepatitis Mortality Prediction using Machine Learning with Flask Web App -- Abraham Obianke 
 
+![Flask App](static/hepatitis_demo.gif.gif)
+
 ## Introduction 
 What is hepatitis?
 Hepatitis is an inflammation of the liver. Inflammation is a swelling that happens when tissues of the body are injured or infected. It can damage your liver. This swelling and damage can affect how well your liver functions.
