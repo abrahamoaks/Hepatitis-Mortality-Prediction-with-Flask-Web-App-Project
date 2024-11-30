@@ -1,6 +1,7 @@
 # Hepatitis Mortality Prediction using Machine Learning with Flask Web App -- Abraham Obianke 
 
-![Flask App](static/hepatitis_demo.gif.gif)
+![Flask App](static/3_20241130_013902_0002.png)
+
 
 ## Introduction 
 What is hepatitis?
@@ -116,11 +117,9 @@ Since this is a binary classification problem, I used the following metrics:
 
 
 ![Flask App](static/hep_assess.jpg)
-
-
-
-
 ![Flask App](static/report3.jpg)
+
+![Flask App](static/hepatitis_demo.gif.gif)
 
 ## Model Monitoring and Maintenance 
 - I leveraged a robust cloud ML platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
