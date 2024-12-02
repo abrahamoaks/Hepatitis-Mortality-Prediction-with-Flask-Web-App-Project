@@ -121,6 +121,7 @@ Since this is a binary classification problem, I used the following metrics:
 
 ![Flask App](static/hepatitis_demo.gif.gif)
 
+### Demo Video on YouTube 
 [![Demo video](https://img.youtube.com/vi/zBAgEASUr_g/0.jpg)](https://www.youtube.com/watch?v=zBAgEASUr_g)
 
 ## Model Monitoring and Maintenance 
