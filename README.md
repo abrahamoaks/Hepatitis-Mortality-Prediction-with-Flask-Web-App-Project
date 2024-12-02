@@ -112,8 +112,8 @@ Since this is a binary classification problem, I used the following metrics:
 
 
 ## Data-Driven Solution 
-  ### Deploying the Model with a Flask Web App
- + To make the model accessible to end-users, I have developed a user-friendly Flask web application called "Predio." The Flask web app, Predio, provides a friendly user interface where users can input relevant parameters through a web form. Upon submission, the app processes the input data using the accurately trained cloud based machine learning model and provides the predicted outcome (live or die). [Click HERE to Gain FREE Access to the Machine Learning Web App](http://abrahamoaks.pythonanywhere.com/) hosted in the cloud for global usage.
+  ### Productionalizing the Model with a Flask Web App
+ + To make the model accessible to end-users, I have developed a user-friendly Flask web application called "Predio." The Flask web app, Predio, provides a friendly user interface where users can input relevant parameters through a web form. Upon submission, the app processes the input data using the accurately trained cloud based machine learning model and provides the predicted outcome (live or die). A demo of the web App is shown below:
 
 
 ![Flask App](static/hep_assess.jpg)
@@ -123,6 +123,9 @@ Since this is a binary classification problem, I used the following metrics:
 
 ### Demo Video on YouTube 
 [![Demo video](https://img.youtube.com/vi/zBAgEASUr_g/0.jpg)](https://www.youtube.com/watch?v=zBAgEASUr_g)
+
+## Web App Status 
+Not yet deployed due to cost issues.
 
 ## Model Monitoring and Maintenance 
 - I leveraged a robust cloud ML platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
