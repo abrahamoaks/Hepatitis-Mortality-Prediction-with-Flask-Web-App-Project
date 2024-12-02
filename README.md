@@ -125,7 +125,7 @@ Since this is a binary classification problem, I used the following metrics:
 [![Demo video](https://img.youtube.com/vi/zBAgEASUr_g/0.jpg)](https://www.youtube.com/watch?v=zBAgEASUr_g)
 
 ## Web App Status 
-Not yet deployed due to cost issues.
+- Not yet deployed due to cost issues.
 
 ## Model Monitoring and Maintenance 
 - I leveraged a robust cloud ML platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
